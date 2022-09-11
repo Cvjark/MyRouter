@@ -3,7 +3,7 @@
 
 路由器是小米 R4A 千兆版本。刷不死 breed 的忘记记录了.. 刷的固件包是 dalao 自编译的 OpenWrt [固件在这里](https://github.com/Cvjark/MyRouter/files/9542925/openwrt-ramips-mt7621-xiaomi_mi-router-4a-gigabit-squashfs-sysupgrade.zip)
 
-https://pub-api-1.bianyuan.xyz/sub?target=ss&url=vmess%3A%2F%2FeyJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInZlcmlmeV9jZXJ0Ijp0cnVlLCJhZGQiOiIyMy5kb3VsdW9zLmljdSIsInBvcnQiOjI2MTIzLCJhaWQiOjIsIm5ldCI6InRjcCIsImhlYWRlclR5cGUiOiJub25lIiwidiI6IjIiLCJ0eXBlIjoidm1lc3MiLCJwcyI6InZpcDIt6aaZ5rivMSDljp%2FnlJ9JUCB8fOmZkOmAnzUwME0iLCJyZW1hcmsiOiJ2aXAyLemmmea4rzEg5Y6f55SfSVAgfHzpmZDpgJ81MDBNIiwiaWQiOiJiZmE3YTkxZC03ZjY3LTNkMzktODYxYy0zYTc1YjdlYzcwNjAiLCJjbGFzcyI6Mn0%3D&insert=false&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false
+
 
 ### 0x01 相关命令
 ```C
