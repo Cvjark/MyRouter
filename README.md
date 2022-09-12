@@ -16,6 +16,7 @@ opkg print-architecture     // 查看可接受的架构
 
 ![image](https://user-images.githubusercontent.com/89090949/189539003-595cc3e5-ed17-4411-90fc-0d1f08a856af.png)
 
+[package source](https://op.supes.top/packages/)
 
 
 ### 0x01 shadowsockets & 图形化界面
